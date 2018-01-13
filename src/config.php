@@ -9,7 +9,9 @@
 
 return [
     // CropID
-    'cropid'     => '',
+    'corpid'     => '',
     // 密钥
-    'cropsecret' => '',
+    'corpsecret' => '',
+    // 密钥
+    'ssosecret'  => '',
 ];
